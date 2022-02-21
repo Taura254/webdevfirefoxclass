@@ -1,0 +1,19 @@
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+table{
+    width: 80%;
+}
+hi {
+    color: blueviolet;
+    text-align: center;
+}
+th{
+    color: chartreuse;
+    font-size: 20px;
+}
+td{
+    color: blue;
+    font-size: 30px;
+}
